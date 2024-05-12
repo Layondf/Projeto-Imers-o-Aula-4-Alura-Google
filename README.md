@@ -1,2 +1,5 @@
-# Projeto-Imers-o-Aula-4-Alura-Google
+# Projeto-Imersão-Aula-4-Alura-Google
+
 Gerenciamento de estoque de chapas de aço através de imagens.
+
+Este projeto visa capturar imagens de chapas de aço em estoque de usina por meio de uma câmera com visão superior. Cada vez que a ponte rolante é ativada, a câmera inicia a captura de imagens da área, como se fosse um filme de poucos frames. Utilizando o Gemini para determinar a geolocalização em dois eixos, semelhante a uma célula do excel, o sistema identifica e registra em um log os códigos das chapas. Esta solução é baseada em imagens devido à alta temperatura das chapas e à sua caracteristica de isolar sinais eletromagnéticos, tornando o uso de RFID inviável. O sistema deve compreender passo a passo, registrando se houve adição ou remoção de chapas. Esta demanda é antiga em uma grande siderúrgica que ainda não encontrou solução. Apesar do pouco tempo para desenvolver o código, acredito que há uma saída com base neste pequeno laboratório e no que aprendi nesta semana de imersão. Aprendi muito e estou impressionado e muito feliz com as possibilidades.
